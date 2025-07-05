@@ -1,0 +1,45 @@
+{
+  "analysis_results": [
+    {
+      "customer_value": 0.0,
+      "category": "standard",
+      "feature_count": 0,
+      "processed_at": "2024-06-26",
+      "customer_id": 1
+    },
+    {
+      "customer_value": 0.0,
+      "category": "standard",
+      "feature_count": 0,
+      "processed_at": "2024-06-26",
+      "customer_id": 2
+    },
+    {
+      "customer_value": 0.0,
+      "category": "standard",
+      "feature_count": 0,
+      "processed_at": "2024-06-26",
+      "customer_id": 3
+    },
+    {
+      "customer_value": 0.0,
+      "category": "standard",
+      "feature_count": 0,
+      "processed_at": "2024-06-26",
+      "customer_id": 4
+    },
+    {
+      "customer_value": 0.0,
+      "category": "standard",
+      "feature_count": 0,
+      "processed_at": "2024-06-26",
+      "customer_id": 5
+    }
+  ],
+  "summary": {
+    "total_processed": 5,
+    "high_value_count": 0,
+    "average_value": 0.0,
+    "processing_timestamp": "2025-06-27T00:38:36.372360"
+  }
+}

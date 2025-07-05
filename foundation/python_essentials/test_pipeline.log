@@ -1,0 +1,50 @@
+[2025-06-27T00:40:58.593154] INFO: Starting to process file: test_customers.json
+[2025-06-27T00:40:58.593552] WARNING: Customer 3: Invalid purchase amount invalid removed
+[2025-06-27T00:40:58.593606] WARNING: Customer 3: Negative purchase amount -10.0 removed
+[2025-06-27T00:40:58.593649] WARNING: Customer 3: Invalid age format thirty, set to None
+[2025-06-27T00:40:58.593690] WARNING: Customer 3: Invalid or empty location, set to 'unknown'
+[2025-06-27T00:40:58.593723] WARNING: Customer 3: Preferences not a list, set to empty list
+[2025-06-27T00:40:58.593763] ERROR: Customer 3: Unexpected error - '<' not supported between instances of 'NoneType' and 'int'
+[2025-06-27T00:40:58.593799] WARNING: Customer 4: Missing customer ID
+[2025-06-27T00:40:58.593835] ERROR: Customer 4: Invalid data structure
+[2025-06-27T00:40:58.593874] INFO: Processing complete. Success rate: 60.0%
+[2025-06-27T00:41:50.167017] INFO: Starting to process file: test_customers.json
+[2025-06-27T00:41:50.167444] WARNING: Customer 3: Invalid purchase amount invalid removed
+[2025-06-27T00:41:50.167492] WARNING: Customer 3: Negative purchase amount -10.0 removed
+[2025-06-27T00:41:50.167532] WARNING: Customer 3: Invalid age format thirty, set to None
+[2025-06-27T00:41:50.167596] WARNING: Customer 3: Invalid or empty location, set to 'unknown'
+[2025-06-27T00:41:50.167626] WARNING: Customer 3: Preferences not a list, set to empty list
+[2025-06-27T00:41:50.167663] ERROR: Customer 3: Unexpected error - '<' not supported between instances of 'NoneType' and 'int'
+[2025-06-27T00:41:50.167696] WARNING: Customer 4: Missing customer ID
+[2025-06-27T00:41:50.167724] ERROR: Customer 4: Invalid data structure
+[2025-06-27T00:41:50.167754] INFO: Processing complete. Success rate: 60.0%
+[2025-06-27T00:42:04.980807] INFO: Starting to process file: test_customers.json
+[2025-06-27T00:42:04.980956] WARNING: Customer 3: Invalid purchase amount invalid removed
+[2025-06-27T00:42:04.981034] WARNING: Customer 3: Negative purchase amount -10.0 removed
+[2025-06-27T00:42:04.981076] WARNING: Customer 3: Invalid age format thirty, set to None
+[2025-06-27T00:42:04.981116] WARNING: Customer 3: Invalid or empty location, set to 'unknown'
+[2025-06-27T00:42:04.981155] WARNING: Customer 3: Preferences not a list, set to empty list
+[2025-06-27T00:42:04.981193] ERROR: Customer 3: Unexpected error - '<' not supported between instances of 'NoneType' and 'int'
+[2025-06-27T00:42:04.981225] WARNING: Customer 4: Missing customer ID
+[2025-06-27T00:42:04.981253] ERROR: Customer 4: Invalid data structure
+[2025-06-27T00:42:04.981283] INFO: Processing complete. Success rate: 60.0%
+[2025-06-27T00:42:41.107716] INFO: Starting to process file: test_customers.json
+[2025-06-27T00:42:41.107879] WARNING: Customer 3: Invalid purchase amount invalid removed
+[2025-06-27T00:42:41.107919] WARNING: Customer 3: Negative purchase amount -10.0 removed
+[2025-06-27T00:42:41.107951] WARNING: Customer 3: Invalid age format thirty, set to None
+[2025-06-27T00:42:41.107980] WARNING: Customer 3: Invalid or empty location, set to 'unknown'
+[2025-06-27T00:42:41.108009] WARNING: Customer 3: Preferences not a list, set to empty list
+[2025-06-27T00:42:41.108043] ERROR: Customer 3: Unexpected error - '<' not supported between instances of 'NoneType' and 'int'
+[2025-06-27T00:42:41.108072] WARNING: Customer 4: Missing customer ID
+[2025-06-27T00:42:41.108098] ERROR: Customer 4: Invalid data structure
+[2025-06-27T00:42:41.108126] INFO: Processing complete. Success rate: 60.0%
+[2025-06-27T00:43:59.138823] INFO: Starting to process file: test_customers.json
+[2025-06-27T00:43:59.139153] WARNING: Customer 3: Invalid purchase amount invalid removed
+[2025-06-27T00:43:59.139238] WARNING: Customer 3: Negative purchase amount -10.0 removed
+[2025-06-27T00:43:59.139314] WARNING: Customer 3: Invalid age format thirty, set to None
+[2025-06-27T00:43:59.139445] WARNING: Customer 3: Invalid or empty location, set to 'unknown'
+[2025-06-27T00:43:59.139508] WARNING: Customer 3: Preferences not a list, set to empty list
+[2025-06-27T00:43:59.139583] ERROR: Customer 3: Unexpected error - '<' not supported between instances of 'NoneType' and 'int'
+[2025-06-27T00:43:59.139690] WARNING: Customer 4: Missing customer ID
+[2025-06-27T00:43:59.139755] ERROR: Customer 4: Invalid data structure
+[2025-06-27T00:43:59.139823] INFO: Processing complete. Success rate: 60.0%
